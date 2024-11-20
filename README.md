@@ -4,7 +4,7 @@
 
 ---
 
-## Languages
+**Languages:**
 
 - JavaScript
 - HTML
