@@ -27,13 +27,13 @@
 
 ### 👨🏻‍💻 &nbsp;Acerca de Mi
 
-💡 &nbsp;Me gusta explorar nuevas tecnologías y desarrollar soluciones de software.\
-🎓 &nbsp;Actualmente estoy estudiando Desarrollo Web Full Stack en BIT.\
-🌱 &nbsp;Estoy encaminado a aprender más sobre Inteligencia Artificial, Diseño de Sistemas y Arquitectura en la Nube.\
-✍️ &nbsp;En mi tiempo libre, me dedico a estudiar y leer, hacer deporte.\
-💬 &nbsp;No dudes en ponerte en contacto conmigo para cual quiere consulta, o simplemente para una conversación interesante.\
-✉️ &nbsp;Puedes enviarme un correo electrónico a brayannsaez77@gmail.com. ¡Intentaré responder lo antes posible!\
-📄 &nbsp;¡Echa un vistazo a mi currículum  para obtener más detalles sobre mí! Estoy abierto a comentarios y sugerencias. [Currículo](https://www.linkedin.com/in/brayan-narvaez-2287871a6/)!
+1.💡 &nbsp;Me gusta explorar nuevas tecnologías y desarrollar soluciones de software.\
+2.🎓 &nbsp;Actualmente estoy estudiando Desarrollo Web Full Stack en BIT.\
+3.🌱 &nbsp;Estoy encaminado a aprender más sobre Inteligencia Artificial, Diseño de Sistemas y Arquitectura en la Nube.\
+4.✍️ &nbsp;En mi tiempo libre, me dedico a estudiar y leer, hacer deporte.\
+5.💬 &nbsp;No dudes en ponerte en contacto conmigo para cual quiere consulta, o simplemente para una conversación interesante.\
+6.✉️ &nbsp;Puedes enviarme un correo electrónico a brayannsaez77@gmail.com. ¡Intentaré responder lo antes posible!\
+7.📄 &nbsp;¡Echa un vistazo a mi currículum  para obtener más detalles sobre mí! Estoy abierto a comentarios y sugerencias. [Currículo](https://www.linkedin.com/in/brayan-narvaez-2287871a6/)!
 
 ---
 
