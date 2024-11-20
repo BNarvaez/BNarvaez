@@ -27,13 +27,13 @@
 
 ### 👨🏻‍💻 &nbsp;Acerca de Mi
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!## Conoceme
+💡 &nbsp;Me gusta explorar nuevas tecnologías y desarrollar soluciones de software.\
+🎓 &nbsp;Actualmente estoy estudiando Desarrollo Web Full Stack en BIT.\
+🌱 &nbsp;Estoy encaminado a aprender más sobre Inteligencia Artificial, Diseño de Sistemas y Arquitectura en la Nube.\
+✍️ &nbsp;En mi tiempo libre, me dedico a estudiar y leer, hacer deporte.\
+💬 &nbsp;No dudes en ponerte en contacto conmigo para cual quiere consulta, o simplemente para una conversación interesante.\
+✉️ &nbsp;Puedes enviarme un correo electrónico a brayannsaez77@gmail.com. ¡Intentaré responder lo antes posible!\
+📄 &nbsp;¡Echa un vistazo a mi currículum  para obtener más detalles sobre mí! Estoy abierto a comentarios y sugerencias. [Currículo](https://www.linkedin.com/in/brayan-narvaez-2287871a6/)!
 
 ---
 
