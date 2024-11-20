@@ -4,11 +4,11 @@
 
 ---
 
-### Languages:
+### Languages
+
 - JavaScript
 - HTML
 - CSS
 - NodeJS
 - Python
 - Angular
-
