@@ -4,7 +4,7 @@
 
 ---
 
-**Languages:**
+## **Lenguajes aprendidos:**
 
 - JavaScript
 - HTML
@@ -12,3 +12,11 @@
 - NodeJS
 - Python
 - Angular
+
+---
+
+## Conoceme:
+
+!]()
+
+
