@@ -2,7 +2,7 @@
 
 ***Soy un desarrollador de software con una fuerte pasión por el aprendizaje, dedicado a crear soluciones innovadoras y eficientes. Busco oportunidades para mejorar mis habilidades y contribuir a proyectos desafiantes.***
 
-<img alt="Night Coding" width= 300px  src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" width= 200px  src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ---
 
