@@ -4,19 +4,17 @@
 
 ---
 
-## **Lenguajes aprendidos:**
+### **Lenguajes aprendidos:**
 
-- JavaScript
-- HTML
-- CSS
-- NodeJS
-- Python
-- Angular
+- ![](https://cdn-icons-png.flaticon.com/128/5968/5968292.png)
+- ![](https://cdn-icons-png.flaticon.com/128/5968/5968267.png)
+- ![](https://cdn-icons-png.flaticon.com/128/732/732190.png)
+
 
 ---
 
-## Conoceme:
+## Conoceme
 
-!]()
+
 
 
