@@ -50,8 +50,8 @@
 
 
 </p>
-Credits: [Brayan Narvaez](https://github.com/BNarvaez)
 
+Credits: [Brayan Narvaez] (https://github.com/BNarvaez)
 Last Edited on: 20/11/2024
 
 
