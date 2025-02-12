@@ -24,7 +24,7 @@
 4.✍️ &nbsp;En mi tiempo libre, me dedico a estudiar y leer, hacer deporte.\
 5.💬 &nbsp;No dudes en ponerte en contacto conmigo para cualquier consulta, o simplemente para una conversación interesante.\
 6.✉️ &nbsp;Puedes enviarme un correo electrónico a brayannsaez77@gmail.com. ¡Intentaré responder lo antes posible!\
-7.📄 &nbsp;¡Echa un vistazo a mi currículum  para obtener más detalles sobre mí! Estoy abierto a comentarios y sugerencias. [Currículo](https://www.linkedin.com/in/brayan-narvaez-2287871a6/)!
+7.📄 &nbsp;¡Echa un vistazo a mi currículum  para obtener más detalles sobre mí! Estoy abierto a comentarios y sugerencias. [Currículo](https://www.linkedin.com/in/brayan-narvaez-s%C3%A1ez-2287871a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)!
 
 ---
 ### 📊 Estadisticas:
