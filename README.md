@@ -1,6 +1,6 @@
 # <p align="center">Hi👍, I´m Brayan Narvaez Saez</p>
 
-***Quiero ser un desarrollador de software con una fuerte pasión por el aprendizaje, dedicado a crear soluciones innovadoras y eficientes. Busco oportunidades para mejorar mis habilidades y contribuir a proyectos desafiantes.***
+***Soy un desarrollador web Full Stakc con una fuerte pasión por el aprendizaje, dedicado a crear soluciones innovadoras y eficientes para los usuario, utilizando mi experiencia. Además busco oportunidades para mejorar mis habilidades y contribuir a proyectos desafiantes.***
 
 <img alt="Night Coding" width= 200px  src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
