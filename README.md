@@ -38,7 +38,7 @@
 ### 🤝🏻 &nbsp;Contactame
 
 <p align="center">
-<a href="https://www.linkedin.com/in/brayan-narvaez-2287871a6/" target="_blank">
+<a href="https://www.linkedin.com/in/brayan-narvaez-full-stack-developer" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://x.com/brayansaez77" target="_blank">
